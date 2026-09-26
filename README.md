@@ -5,7 +5,8 @@
 
 **Issued:** In Progress
 
-**Key Outcome:** CCNA Automation is all about streamlining network, security, collaboration, and computing systems. Accelerating improved proficiency with skills like:
+**Key Outcome:** CCNA Automation is all about streamlining network, security, collaboration, and computing systems.</br> 
+Accelerating improved efficiency with skills including:
 - Software design and development
 - Understand and use APIs
 - Application deployment and security
@@ -13,7 +14,7 @@
 - Workflow automation
 - Infrastructure as code
 
-
+</br>
 
 **Hands on Experience Included:**
 </br>
@@ -30,7 +31,7 @@
   <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS9_hLLBiy8j4LwFHDtBbzR78V_pxHmndblPzU_VucUQ&s=10" style ="width: 75px; height: 75px; background-color: white; padding: 40px" />
 </a>
 
-
+</br>
 
 
 
