@@ -14,9 +14,6 @@
 - Infrastructure as code
 
 
-See my [CCNA Automation outline in Google Docs](Coming Soon!)
-_This also provides you with a step by step guide on configurations._
-
 
 **Hands on Experience Included:**
 </br>
