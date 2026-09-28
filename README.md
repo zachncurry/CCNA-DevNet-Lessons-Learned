@@ -30,6 +30,13 @@ Accelerating improved efficiency with skills including:
 <a href = "https://docs.ansible.com/">
   <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS9_hLLBiy8j4LwFHDtBbzR78V_pxHmndblPzU_VucUQ&s=10" style ="width: 75px; height: 75px; background-color: white; padding: 40px" />
 </a>
+<a href = "https://www.cisco.com/site/us/en/products/networking/software/crosswork-network-services-orchestrator/index.html">
+  <img src = "https://blogs.cisco.com/gcs/ciscoblogs/1/2020/04/f3bc2eea-nso-logo.png" style ="width: 75px; height: 75px; background-color: white; padding: 40px" />
+</a>
+<a href = "https://developer.hashicorp.com/terraform">
+  <img src = "https://d3g9o9u8re44ak.cloudfront.net/logo/df7cd203-7ced-467a-b210-f01242b36f54/5471776e-7298-474b-88cd-e67c30a2753f.png" style ="width: 75px; height: 75px; background-color: white; padding: 40px" />
+</a>
+
 
 </br>
 
